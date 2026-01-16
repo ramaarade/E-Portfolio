@@ -1,26 +1,21 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Rama Arade"
+image:C:/Users/ra204.stu/Desktop/GEM 510/Week8/E-Portfolio/images/IMG_1891.jpeg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      text: Resume
+      href: C:/Users/ra204.stu/Desktop/GEM 510/Week8/E-Portfolio/Rama Arade's Resume  .docx.pdf
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
-    - icon: envelope-at
+      href: https://github.com/ramaarade
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:ramaarade@gmail.com
 ---
 
 Hey there people,
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
-
-Write something about myself, very exciting.
+Hi, my name is Rama Arade. I was born and raised in Vancouver and recently completed my bachelor's degree in Geography at UBC. During my studies, I worked at the Geographical Information Centre, a remote sensing lab that specializes in aerial photo data across British Columbia. In my free time, I enjoy running long distances and spending time outdoors. I chose the MGEM program because I want to deepen my knowledge and technical skills in geomatics with the goal of becoming a professional geomatics specialist. Ultimately, I aspire to work in the mining industry, where I hope to apply my enhanced geomatics expertise to support innovative and sustainable resource management. 
+W
