@@ -1,19 +1,22 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:/Users/ra204.stu/Desktop/GEM 510/Week8/E-Portfolio/Who Rama is.pdf
 
 website:
-  title: "Your E-Portfolio"
+  title: "Rama Arade"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: resume.qmd
         text: Resume
+      - href: C:/Users/ra204.stu/Desktop/GEM 510/Week8/E-Portfolio/Rama Arade's Resume  .docx.pdf
       - href: publications.qmd
         text: Publications
-      - href: content.qmd
-        text: Content & Deliverables
+      - text: GifHub
+        href: https://github.com/ramaarade
+        text: email
+        href: mail to:ramaarade@gmail.com
+
 
 format:
   html:
